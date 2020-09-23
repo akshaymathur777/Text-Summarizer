@@ -1,2 +1,2 @@
-# Text-Summerizer
-Text Summerizer of Youtube Videos
+# Text-Summarizer
+Text Summarizer of Youtube Videos
